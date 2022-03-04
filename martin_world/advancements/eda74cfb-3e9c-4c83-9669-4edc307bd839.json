@@ -645,6 +645,8 @@
     "criteria": {
       "minecraft:pillager": "2022-01-19 16:04:13 +0800",
       "minecraft:skeleton": "2022-01-15 18:11:30 +0800",
+      "minecraft:ghast": "2022-03-02 23:33:29 +0800",
+      "minecraft:hoglin": "2022-03-02 23:36:01 +0800",
       "minecraft:spider": "2022-01-15 18:10:21 +0800",
       "minecraft:creeper": "2022-01-20 20:01:27 +0800",
       "minecraft:slime": "2022-02-01 01:01:20 +0800",
@@ -1490,6 +1492,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-03-02 23:35:57 +0800",
       "minecraft:nether_wastes": "2022-01-19 15:54:31 +0800",
       "minecraft:warped_forest": "2022-01-19 15:54:00 +0800"
     },
